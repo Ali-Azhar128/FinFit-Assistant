@@ -1,7 +1,6 @@
 # FinFit Assistant
 
 **FinFit Assistant** is an AI-powered application designed to help users manage both their health and finances in one place. It offers personalized health insights, expense tracking, budgeting tips, and progress visualizations. The app integrates fitness and financial tracking, allowing users to stay on top of their wellness goals and financial well-being.
-<img width="1440" alt="Screenshot 2024-10-08 at 5 23 09 PM" src="https://github.com/user-attachments/assets/f6ab5b30-3ea1-4aaa-b4db-55e4600f2f00">
 <img width="1440" alt="Screenshot 2024-10-08 at 5 23 09 PM" src="https://github.com/user-attachments/assets/a768084f-e275-4a63-851c-a3eca18610f8">
 ## Features
 
@@ -19,6 +18,8 @@
 ### Combined Features
 - **AI Autosuggestions**: Get personalized recommendations for workouts and spending adjustments based on your data.
 - **Task Management**: Track daily wellness tasks and financial goals in one interface.
+- <img width="394" alt="image" src="https://github.com/user-attachments/assets/cef6abe9-149f-4005-9433-83a31486124c">
+
 
 ## Installation
 
